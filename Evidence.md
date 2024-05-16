@@ -1,2 +1,1 @@
-# Evidence of Contribution 
-## Having Navigation displayed on all pages
+# Having Navigation displayed on all pages
