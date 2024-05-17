@@ -10,6 +10,8 @@
 ```
 Collaborated with Nick on implementing the search bar. I focused on the front-end aspect, incorporating the search bar into the navigation menu. Meanwhile, Nick handled the back-end development, ensuring the search bar was fully functional.
 
+# Creation of Search Results Page
+
 ![Search Results](images/Search-Results.png)
 
 ```
