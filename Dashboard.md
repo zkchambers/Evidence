@@ -1,6 +1,6 @@
 # Creation of Upskilling Dashboard
 
-<!-- Image -->
+![Dashboard Table](images/Table-Dashboard.png)
 
 ```
   <div class="container">
@@ -35,6 +35,9 @@
       </div>
 ```
 I created a table that displays three project preferences selected by the user which it takes the preferences from the backend and displays these preferences that are listed in the second column of the table.
+
+![Upskilling Tracker](images/Upskilling-Progressbar.png)
+
 ```
       <!-- Upskilling Progress Tracker -->
       <div class="col-md-6">
@@ -54,6 +57,9 @@ I created a table that displays three project preferences selected by the user w
     </div>
 ```
 I implemented progress bars to visually represent the user's skill advancement in areas like Django, Python, Front-end, and more. These progress bars display the percentage of completion as text and visually illustrate the user's upskilling progress. It takes the progress from the back end and displays it.
+
+![Allocation](images/Allocation.png)
+
 ```
     <!-- Allocation -->
     <section class="text-left pb-5">
