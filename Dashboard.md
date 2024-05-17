@@ -34,7 +34,7 @@
         </section>
       </div>
 ```
-I created a table that displays three project preferences selected by the user. These preferences are listed in the second column of the table.
+I created a table that displays three project preferences selected by the user which it takes the preferences from the backend and displays these preferences that are listed in the second column of the table.
 ```
       <!-- Upskilling Progress Tracker -->
       <div class="col-md-6">
@@ -53,7 +53,7 @@ I created a table that displays three project preferences selected by the user. 
       </div>
     </div>
 ```
-I implemented progress bars to visually represent the user's skill advancement in areas like Django, Python, Front-end, and more. These progress bars display the percentage of completion as text and visually illustrate the user's upskilling progress.
+I implemented progress bars to visually represent the user's skill advancement in areas like Django, Python, Front-end, and more. These progress bars display the percentage of completion as text and visually illustrate the user's upskilling progress. It takes the progress from the back end and displays it.
 ```
     <!-- Allocation -->
     <section class="text-left pb-5">
@@ -66,3 +66,4 @@ I implemented progress bars to visually represent the user's skill advancement i
 </main>
 {% endblock content %}
 ```
+This section is where the student gets allocated a project based on their preferences in the table. It takes the allocation that they have been given and it displays it.
