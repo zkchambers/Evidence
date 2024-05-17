@@ -1,4 +1,4 @@
-# Email Validation to Join Us Forms
+# Email Validation for Join Us Forms
 
 ![Email Validation](images/Email-Validation.png)
 
