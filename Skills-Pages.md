@@ -1,6 +1,6 @@
 # Changes to Skills Pages Django, Python and Front End Design
 
-<!-- Image -->
+![Skills Page](images/Skills-Page.png)
 
 ```
 {% extends 'pages/upskilling/skill_base.html' %} 
@@ -32,8 +32,12 @@
   </div>
 ```
 Added cards about the structure and syntax of the skill which you can go through the cards using the next or back button.
+![Next](images/Next.png)
 
-<!-- Image-->
+![Finish](images/Finish.png)
+
+![Next](images/Next.png)
+
 ```
 <script>
     window.progressId = "{{ progress_id }}";
@@ -83,4 +87,4 @@ Added cards about the structure and syntax of the skill which you can go through
 
 {% endblock %}
 ```
-I developed a script to control the visibility of "Next" and "Finish" button under the cards. The script ensures that the "Finish" button is hidden on the first card and the "Next" button is hidden on the last card.
+As shown in the images above, I developed a script to control the visibility of "Next" and "Finish" button under the cards. The script ensures that the "Finish" button is hidden on the first card and the "Next" button is hidden on the last card.
