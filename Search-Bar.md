@@ -8,5 +8,5 @@ Code:
           <button class="btn btn-outline-gray-100 me-md-3 px-4" style="margin-left: 10px;" type="submit">Search</button>
         </form>
 ```
-Worked with Nick on the search bar, I did the front end side and incorportated the search bar into the navigation and he worked on the backend side and made sure that the search bar was functional.
+Collaborated with Nick on implementing the search bar. I focused on the front-end aspect, incorporating the search bar into the navigation menu. Meanwhile, Nick handled the back-end development, ensuring the search bar was fully functional.
 

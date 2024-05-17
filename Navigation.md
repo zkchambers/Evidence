@@ -6,7 +6,7 @@ I used code:
 
  ```{% include 'includes/navigation.html'%}```
 
-I added the pre-existing naviagtion template using the code above to add the navigation to the sign up, sign in and reset password pages which didn't have the navigation displaying on these pages. 
+I integrated the pre-existing mavigation to the sign-up, sign-in, and reset password pages. Previosuly, they weren't displaying the navigation.
 
 # Addition of A Upskilling Tab and Dropdown on the Navigation
 
@@ -51,5 +51,7 @@ Code:
           </li>
           {% endif %}
 ```
+When a user is signed into the website, the navigation will include an "Upskilling" dropdown. This dropdown will have two options:
+1. Dashboard: This page allows for users to view their project preferences, allocations, and track their upskilling progress.
+2. This page contains various links to skills such as Django, Front-end Design, Python etc. Which they can click on the links of the skills to be redirected to that page to upskill on those certain skills.
 
-When a user is signed into the website, Upskilling will be appearing on the navigation. It is a dropdwon which has the Dashboard which they can see their project preferences, allocation and their progress on their upskilling and it will have the Upskilling page which will have links to Django, Front End Design, Python etc skills that they can redirect to.

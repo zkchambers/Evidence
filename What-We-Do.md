@@ -23,4 +23,4 @@ Code:
             </div>
 ```
 
-I used this code to create cards of eacch Project we have in HardHat Enterprises and got the descriptions for each project from the company structure and objectives file.
+I created cards for each project at HardHat Enterprises using the following code. The project descriptions were sourced from the company's structure and objectives file.
