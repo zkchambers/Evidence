@@ -1,2 +1,2 @@
 # Having Navigation displayed on all pages
-![Navigation](Navigation.png)
+![Navigation](images/Navigation.PNG)
