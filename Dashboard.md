@@ -1,5 +1,7 @@
 # Creation of Upskilling Dashboard
 
+![Dashboard Table](images/Dashboard.png)
+
 ![Dashboard Table](images/Table-Dashboard.png)
 
 ```
