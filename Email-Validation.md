@@ -1,6 +1,6 @@
 # Email Validation to Join Us Forms
 
-<!-- Image -->
+![Email Validation](images/Email-Validation.png)
 
 Code:
 ```
