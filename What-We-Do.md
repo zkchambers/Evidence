@@ -1,6 +1,6 @@
 # Update to the What We Do html Page
 
-<!-- Image -->
+![Project Cards](images/Project-Cards.png)
 
 ```
             <!-- Projects -->
