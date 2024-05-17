@@ -2,7 +2,6 @@
 
 <!-- Image -->
 
-Code:
 ```
 {% extends 'pages/upskilling/skill_base.html' %} 
 {% load static %}

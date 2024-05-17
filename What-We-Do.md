@@ -2,7 +2,6 @@
 
 <!-- Image -->
 
-Code: 
 ```
             <!-- Projects -->
     <div class="container">

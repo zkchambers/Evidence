@@ -1,7 +1,5 @@
 # Addition of Search Bar to Navigation
 
-Code:
-
 ``` <form class="d-flex align-items-center" method=POST action="{% url 'pages/search-results'%}">
           {% csrf_token %}
           <input class="form-control mr-sm-2" type="search" style="margin-left: 50px;" placeholder="Search..." aria-label="Search" name="searched">

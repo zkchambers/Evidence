@@ -2,8 +2,6 @@
 
 ![Navigation](images/Navigation.PNG)
 
-I used code:
-
  ```{% include 'includes/navigation.html'%}```
 
 I integrated the pre-existing mavigation to the sign-up, sign-in, and reset password pages. Previosuly, they weren't displaying the navigation.
