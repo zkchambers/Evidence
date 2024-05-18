@@ -1,1 +1,1 @@
-![Git Pulls](images/git-pulls.png)
+![Git Pulls](images/Git-Pulls/git-pulls.png)
