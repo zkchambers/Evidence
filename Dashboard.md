@@ -74,4 +74,6 @@ I implemented progress bars to visually represent the user's skill advancement i
 </main>
 {% endblock content %}
 ```
-This section is where the student gets allocated a project based on their preferences in the table. It takes the allocation that they have been given and it displays it.
+This section is where the student gets allocated a project based on their preferences in the table. It takes the allocation that they have been given and it displays it. 
+
+Doing the Dashboard for upskilling help me understand more about Django and especially the back end side as I can see where it all links it together. 

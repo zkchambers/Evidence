@@ -22,4 +22,4 @@
             </div>
 ```
 
-I created cards for each project at HardHat Enterprises using the following code. The project descriptions were sourced from the company's structure and objectives file.
+I created cards for each project at HardHat Enterprises using the following code. The project descriptions were sourced from the company's structure and objectives file. This was to help update and show all the new and current projects that are currently happening at HardHat enterprises. 

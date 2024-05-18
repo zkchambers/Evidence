@@ -35,4 +35,4 @@ Collaborated with Nick on implementing the search bar. I focused on the front-en
 ```
 
 I collaborated with Nick to develop a search results page that displays the results from their search. It allows users to browse through the search results and find the specific information they are needing. 
-
+I tested an tried to potenitally incoporate a search bar only on the home page but decided it would be better for the search bar to be usable in all pages that are in the website. 

@@ -52,4 +52,5 @@ I integrated the pre-existing mavigation to the sign-up, sign-in, and reset pass
 When a user is signed into the website as you see in the image above, the navigation will include an "Upskilling" dropdown. This dropdown will have two options:
 1. Dashboard: This page allows for users to view their project preferences, allocations, and track their upskilling progress.
 2. This page contains various links to skills such as Django, Front-end Design, Python etc. Which they can click on the links of the skills to be redirected to that page to upskill on those certain skills.
+This allows for users that have an account on our website to be able to find the skills they need to upskill and be able to keep an eye on their progress.
 

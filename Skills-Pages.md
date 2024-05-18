@@ -88,3 +88,4 @@ Added cards about the structure and syntax of the skill which you can go through
 {% endblock %}
 ```
 As shown in the images above, I developed a script to control the visibility of "Next" and "Finish" button under the cards. The script ensures that the "Finish" button is hidden on the first card and the "Next" button is hidden on the last card.
+This helps from users hitting finish on the cards which raises their progress bar too 100% which means people could finish their upskilling without viewing each card properly.
