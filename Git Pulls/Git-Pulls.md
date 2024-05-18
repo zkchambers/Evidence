@@ -1,1 +1,0 @@
-![Git Pulls](images/Git-Pulls/git-pulls.png)
