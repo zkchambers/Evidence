@@ -1,6 +1,6 @@
 # Teams Messages with Austin while working on the Upskilling Dashbpard together
 
-![Message2](Team Messages/Austin.png)
+![Message2](TeamMessages/Austin.png)
 
 I sent messages to Austin and communicated with him what progress I made and if he liked what I had created. I also asked many questions about things that I wasn't sure about and how the upskilling dashboard worked.
 

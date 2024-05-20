@@ -1,6 +1,6 @@
 # Teams Messages with Nick Collabortating on the Search Bar
 
-![Message8](Team Messages/Nick.png)
+![Message8](TeamMessages/Nick.png)
 
 I shared code with Nick so that he had the search bar on his local side which he was able to start developing on the back end side.
 
